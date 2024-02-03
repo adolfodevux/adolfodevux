@@ -42,13 +42,13 @@ individuals in innovative ways.
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 - **Languages:**
-[![data](https://skillicons.dev/icons?i=java,js,php,html,css,py)](https://skillicons.dev)
+[![data](https://skillicons.dev/icons?i=java,js,nodejs,php,html,css,py,c,cpp,rust,kotlin)](https://skillicons.dev)
 
 - **Technologies**:
-[![data](https://skillicons.dev/icons?i=git,github,bash,mysql,dotnet,discord)](https://skillicons.dev)
+[![data](https://skillicons.dev/icons?i=git,github,bash,mysql,mongodb,dotnet,discord,linux)](https://skillicons.dev)
 
 - **IDES**:
-[![data](https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,vim,neovim)](https://skillicons.dev)
+[![data](https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,androidstudio,idea,vim,neovim)](https://skillicons.dev)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <br>
