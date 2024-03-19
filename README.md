@@ -35,7 +35,7 @@ individuals in innovative ways.
 <i align="right" height="270px" alt="guy" width="350"  /> </a>
 
 - Name: Adolfo López 🐧
-- Age: 16 📀
+- Age: 17 📀
 - Experience: Jr Programmer 👦
 - Occupation: Full Stack, Backend, Frontend, Open Source and Software Programmer👨‍💻
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
