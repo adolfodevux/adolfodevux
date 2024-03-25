@@ -1,13 +1,14 @@
 <div align="center">
   <p align="center">
-    <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+    <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230" align="center"/>
   </p>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+  <br>
 </div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="80px" align="left"></picture> <h1>About me</h1>
 
-<p style="text-align: left;">
+<p style="text-align: justify;">
   Allow me to introduce myself, I am Adolfo, a passionate novice programmer who
   has found his true calling in the exciting world of technology and code. 
   I am delighted to have the opportunity to share a bit about myself and my 
@@ -22,7 +23,7 @@
 
 <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 
-<picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="50px"></picture> Operating Systems
+<picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="50px"></picture> **Operating Systems**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
