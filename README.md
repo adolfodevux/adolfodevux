@@ -63,8 +63,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adolfodevux" alt="adolfodevux" />
-    <a href="https://github.com/adolfodevux/"><img src="https://img.shields.io/github/followers/Parply?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
-  <a href="https://github.com/adolfodevux/"><img src="https://img.shields.io/github/last-commit/Parply/Parply?style=flat-square?color=red&label=Last%20Updated%20"/></a>
+    <a href="https://github.com/adolfodevux/"><img src="https://img.shields.io/github/followers/adolfodevux?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
+  <a href="https://github.com/adolfodevux/"><img src="https://img.shields.io/github/last-commit/adolfodevux/adolfodevux?style=flat-square?color=red&label=Last%20Updated%20"/></a>
 </p>
 
 
