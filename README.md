@@ -28,7 +28,7 @@
   [![data](https://skillicons.dev/icons?i=java,py,bash,c,cpp,html,css,js,ts,php)](https://skillicons.dev)
 
   **Tecnologias**<br>
-  [![data](https://skillicons.dev/icons?i=mysql,django,react,nodejs,scss,bootstrap,cloudflare,git,github,windows,linux)](https://skillicons.dev)
+  [![data](https://skillicons.dev/icons?i=mysql,django,react,nodejs,tailwind,scss,bootstrap,cloudflare,git,github,windows,linux)](https://skillicons.dev)
   
 **IDES y Editores**<br>
   [![data](https://skillicons.dev/icons?i=eclipse,idea,pycharm,vscode,visualstudio,androidstudio,vim,neovim)](https://skillicons.dev)
