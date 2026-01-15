@@ -1,12 +1,15 @@
-
-![navar](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a0a0a,1e3a8a,1e40af&height=300&section=header&text=Adolfo+López&fontSize=90&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Software+Developer+%7C+Co-CEO+Novus+Media+Center&descSize=28&descAlignY=60&animationDuration=2.5&fontWeight=800" alt="Adolfo López - Software Developer | Co-CEO Novus Media Center" style="max-width: 100%;"/>
+</div>
 
 <p align="center">
   <h1 align="center">Welcome to <a href="https://github.com/adolfodevux">adolfodevux</a> Profile 👋</h1>
 </p>
+
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=¡Bienvenido+a+mi+perfil+de+Github!;Mi+nombre+es+Adolfo+López;Co-CEO+de+Novus+Media+Center;Soy+desarrollador+Backend;Soy+desarrollador+de+Software;Tecnico+en+Programación;Ing+en+Sistemas+Computacionales;"/></a>
 </p>
+
  <h1>👨🏻‍💻 Hola, soy adolfodevux, ¡Bienvenido a mi perfil de GitHub!</h1>
 <ul>
   <li> ❤️ Soy un desarrollador apasionado por la tecnología y la programación.</li>
@@ -49,18 +52,39 @@
   <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=adolfodevux&type=top-repos&theme=dark" alt="Top Repos" />
 </p>
 
-<h2> 🤝🏻Contacto</h2>
-
+<h2>🤝🏻 Contacto</h2>
 <p align="center">
-  &nbsp; <a href="https://discord.gg/tpN43KXr" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/discord.png" width="100" /></a> 
-&nbsp; <a href="https://www.instagram.com/adolfodevux" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="100" /></a>  
-  &nbsp; <a href="https://devuxforge.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/web.png" width="100" /></a>  
-&nbsp; <a href="mailto:adolfolopezdevux@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
+  <a href="https://www.instagram.com/adolfodevux" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="100" />
+  </a>
+  
+  <a href="https://www.tiktok.com/@adolfodevux" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/plasticine/100/000000/tiktok.png" width="100" />
+  </a>
+  
+  <a href="https://discord.com/users/adolfodevux" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/plasticine/100/000000/discord.png" width="100" />
+  </a>
+  
+  <a href="mailto:adolfolopezdevux@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="100" />
+  </a>
+  
+  <a href="https://github.com/adolfodevux" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" />
+  </a>
+  
+   <a href="https://devuxforge.blog" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/plasticine/100/000000/web.png" width="100" />
+  </a>
+
 </p>
 
 <h2 align="left">☕Comprame un cafe</h2>
 <p align="center"> <a href="https://www.paypal.me/adolfodevux"><img src="https://img.shields.io/badge/-paypal-3423A6?style=for-the-badge&logo=Paypal&logoColor=white"  height="50" width="210" /></a>
 </p>
+
+![navar](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
 
 
 
