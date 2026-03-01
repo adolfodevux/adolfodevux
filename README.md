@@ -34,7 +34,7 @@
 <h2>🛠️ Habilidades y Herramientas</h2>
 
 **Lenguajes de Programación**<br>
-[![data](https://skillicons.dev/icons?i=java,c,cpp,rust,py,bash,js,ts,php,swift,kotlin)](https://skillicons.dev)
+[![data](https://skillicons.dev/icons?i=java,c,cpp,rust,py,bash,js,ts,lua,php,swift,kotlin)](https://skillicons.dev)
 
 **Frontend**<br>
 [![data](https://skillicons.dev/icons?i=html,css,react,nextjs,jquery,astro,tailwind,scss,bootstrap)](https://skillicons.dev)
